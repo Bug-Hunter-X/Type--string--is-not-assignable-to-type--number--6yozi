@@ -1,0 +1,3 @@
+# Type 'string' is not assignable to type 'number'
+
+This TypeScript bug demonstrates a common type error: assigning a string to a number variable.  The code includes two simple functions, `add` and `subtract`, designed to work with numbers. The bug is introduced when attempting to assign a string where a number is expected. The solution explains how to correctly handle type checking to avoid this error.
